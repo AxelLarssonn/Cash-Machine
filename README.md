@@ -4,4 +4,4 @@ En simulering av en bankomat där användaren kan utföra olika banktransaktione
 Objektorienterad programmering (OOP)
 Hantering av användarens kontosaldo med valideringar
 Loopar och undantagshantering för robust användarupplevelse
-Teknologier: Java, OOP
+Teknologier: Javascript, HTML, CSS
